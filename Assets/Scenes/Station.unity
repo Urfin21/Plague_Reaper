@@ -289,6 +289,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 333079429609993762, guid: 4d82ed05a39183547b098adba655c3ce, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 4050242028138171097, guid: 4d82ed05a39183547b098adba655c3ce, type: 3}
       propertyPath: m_BackGroundColor.b
       value: 0.86274517
