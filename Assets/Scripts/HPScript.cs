@@ -80,5 +80,9 @@ public class HPScript : MonoBehaviour
     {
         main.GetComponent<ESC>().view1();
     }
+    public void Mod()
+    {
+        GoodMod = true;
+    }
 
 }

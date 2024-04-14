@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 341e4648017c42942aa62179ba960970
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 2
+    wrapV: 2
+    wrapW: 2
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump_anim_boss_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 50
+        width: 509
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197fead346c8cb4e968b9e5458b772c
+      internalID: 36818561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_1
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 42
+        width: 496
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b09fd18ae3eb1e4f98dd6490363b1ea
+      internalID: -1190502695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_2
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 39
+        width: 478
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760dc2b9a3eae474fbc29659cc8e3ed1
+      internalID: 131912134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_3
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 37
+        width: 499
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3962a6bc9dcb0ea448d51b7bda166e48
+      internalID: 466226951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_4
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 37
+        width: 456
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b6aaff563a41c4e94f1f97afdce674
+      internalID: 78446212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_5
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 29
+        width: 420
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f78e10a0fd5f9a4e847d92cbf0a3ed7
+      internalID: 1930389770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_6
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 37
+        width: 488
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0afdd1a646e4ec499fc67580f284ed1
+      internalID: -396310279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_7
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 100
+        width: 538
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaaa230e91d7bd4a93d05b1f09d9710
+      internalID: 1330179003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_8
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 89
+        width: 685
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6fbd94a9342e42aaec57157c008b6
+      internalID: 1543427510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_9
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 157
+        width: 640
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8db6c31c8156dc4d8f85c5159a12146
+      internalID: 807347049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_10
+      rect:
+        serializedVersion: 2
+        x: 7306
+        y: 178
+        width: 517
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7428964754d7c45acd61431da49192
+      internalID: -1856988562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_11
+      rect:
+        serializedVersion: 2
+        x: 8017
+        y: 165
+        width: 499
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72881201a8e9db741865a2eaa53898ca
+      internalID: 1282103638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_12
+      rect:
+        serializedVersion: 2
+        x: 8728
+        y: 177
+        width: 450
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b4c09ce24dea489b884d03de59d95
+      internalID: 185579772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_13
+      rect:
+        serializedVersion: 2
+        x: 9442
+        y: 163
+        width: 468
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad244f31b2785a140886bace33fbc85a
+      internalID: 184236306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_14
+      rect:
+        serializedVersion: 2
+        x: 10149
+        y: 172
+        width: 505
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d660a14cc59494aab152d752b83226
+      internalID: 708982484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_15
+      rect:
+        serializedVersion: 2
+        x: 10863
+        y: 157
+        width: 461
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19983aaf8203694bb541d62c50005d4
+      internalID: 1294187434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_16
+      rect:
+        serializedVersion: 2
+        x: 11609
+        y: 165
+        width: 456
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ca0eec4ae38b4391bfd539aa543a9
+      internalID: -1993056213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_17
+      rect:
+        serializedVersion: 2
+        x: 12344
+        y: 182
+        width: 473
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631f59bf9f1cdf4e83b6b9e95b294ef
+      internalID: -38980149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_18
+      rect:
+        serializedVersion: 2
+        x: 13051
+        y: 209
+        width: 617
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3e4e0e50298b419aa1d82fa68ed19
+      internalID: -691639639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_19
+      rect:
+        serializedVersion: 2
+        x: 13742
+        y: 213
+        width: 691
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a4f6f3eb7a1f40b17c4894c205013
+      internalID: -107794922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_20
+      rect:
+        serializedVersion: 2
+        x: 14450
+        y: 88
+        width: 693
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2205f2d0c8934449a20e62e8a408db1
+      internalID: -858450774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_21
+      rect:
+        serializedVersion: 2
+        x: 15196
+        y: 43
+        width: 689
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65255cf14e5c5e54f8d58089a1ae2bfa
+      internalID: -798772925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_22
+      rect:
+        serializedVersion: 2
+        x: 15912
+        y: 28
+        width: 682
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404aced9929c4df4abca22be40be4e03
+      internalID: -1779252765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_23
+      rect:
+        serializedVersion: 2
+        x: 16629
+        y: 36
+        width: 668
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e7b302c62406c44aae89e8f9dd8d8c
+      internalID: -240455568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_24
+      rect:
+        serializedVersion: 2
+        x: 17356
+        y: 33
+        width: 697
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971e11efb5644b4ba358a7239123226
+      internalID: 1364183209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_25
+      rect:
+        serializedVersion: 2
+        x: 18078
+        y: 49
+        width: 694
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dca8dd649064ab41a1493b77324fc46
+      internalID: 1196666732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_26
+      rect:
+        serializedVersion: 2
+        x: 18792
+        y: 30
+        width: 677
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7d33893258a34d95ecc37c6b7e3a5
+      internalID: -1549344187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_27
+      rect:
+        serializedVersion: 2
+        x: 19489
+        y: 29
+        width: 690
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12288f712b845e4996d70563b4e37ee
+      internalID: -517392187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_28
+      rect:
+        serializedVersion: 2
+        x: 20225
+        y: 64
+        width: 597
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b68b3806ded21478c0ea8cf42bd6ae
+      internalID: -2093836935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_29
+      rect:
+        serializedVersion: 2
+        x: 20932
+        y: 49
+        width: 592
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e9d1091a64b544bad49494bb1561a
+      internalID: -1014282811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_30
+      rect:
+        serializedVersion: 2
+        x: 21647
+        y: 71
+        width: 517
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130df286549ef54faba45b96d066a9c
+      internalID: -2018595405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_31
+      rect:
+        serializedVersion: 2
+        x: 22364
+        y: 74
+        width: 518
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee8726929606ba478bd799d0bab4ae6
+      internalID: -329850916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_32
+      rect:
+        serializedVersion: 2
+        x: 23129
+        y: 42
+        width: 484
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fb11a1725070458726b58f409c041
+      internalID: 1293271694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_33
+      rect:
+        serializedVersion: 2
+        x: 23837
+        y: 47
+        width: 514
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5b31cbd6ea36c4eb99d651f1c9abbc
+      internalID: 937833329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_anim_boss_34
+      rect:
+        serializedVersion: 2
+        x: 24577
+        y: 50
+        width: 470
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadca30d9c422e48a05aa9c4746bd0c
+      internalID: 463439513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jump_anim_boss_0: 36818561
+      jump_anim_boss_1: -1190502695
+      jump_anim_boss_10: -1856988562
+      jump_anim_boss_11: 1282103638
+      jump_anim_boss_12: 185579772
+      jump_anim_boss_13: 184236306
+      jump_anim_boss_14: 708982484
+      jump_anim_boss_15: 1294187434
+      jump_anim_boss_16: -1993056213
+      jump_anim_boss_17: -38980149
+      jump_anim_boss_18: -691639639
+      jump_anim_boss_19: -107794922
+      jump_anim_boss_2: 131912134
+      jump_anim_boss_20: -858450774
+      jump_anim_boss_21: -798772925
+      jump_anim_boss_22: -1779252765
+      jump_anim_boss_23: -240455568
+      jump_anim_boss_24: 1364183209
+      jump_anim_boss_25: 1196666732
+      jump_anim_boss_26: -1549344187
+      jump_anim_boss_27: -517392187
+      jump_anim_boss_28: -2093836935
+      jump_anim_boss_29: -1014282811
+      jump_anim_boss_3: 466226951
+      jump_anim_boss_30: -2018595405
+      jump_anim_boss_31: -329850916
+      jump_anim_boss_32: 1293271694
+      jump_anim_boss_33: 937833329
+      jump_anim_boss_34: 463439513
+      jump_anim_boss_4: 78446212
+      jump_anim_boss_5: 1930389770
+      jump_anim_boss_6: -396310279
+      jump_anim_boss_7: 1330179003
+      jump_anim_boss_8: 1543427510
+      jump_anim_boss_9: 807347049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

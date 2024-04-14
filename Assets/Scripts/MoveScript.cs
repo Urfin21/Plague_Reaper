@@ -10,6 +10,10 @@ public class MoveScript : MonoBehaviour
     public float speed = 2f;
     public float jumpForce = 7;
     public Animator anim;
+    public bool IsFacingR = true;
+    public bool IsFacingL = false;
+    public BoxCollider2D m_col;
+    public int Kd = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -26,6 +30,13 @@ public class MoveScript : MonoBehaviour
         jump();
         flip();
         anim.SetFloat("yVelocity", rb.velocity.y);
+        if (Input.GetKeyDown(KeyCode.LeftShift) && Kd == 1)
+        {
+            Slider();
+            StartCoroutine(SlideCol());
+            m_col.enabled = false;
+        }
+        rb.WakeUp();
     }
 
     void walk()
@@ -47,6 +58,7 @@ public class MoveScript : MonoBehaviour
         {
             rb.AddForce(Vector2.up * jumpForce);
             anim.SetBool("jump", true);
+            Kd = 1;
         }
     }
 
@@ -66,6 +78,32 @@ public class MoveScript : MonoBehaviour
             gameObject.transform.localScale = currentScale;
             faceRight = !faceRight;
         }
+    }
+    void Slider()
+    {
+
+        if (faceRight == true)
+        {
+            rb.AddForce(Vector2.right * 30000f);
+
+
+
+        }
+        if (faceRight != true)
+        {
+            rb.AddForce(-Vector2.right * 30000f);
+
+
+
+        }
+        Kd = 0;
+    }
+    IEnumerator SlideCol()
+    {
+        yield return new WaitForSeconds(1);
+        m_col.enabled = true;
+
+
     }
 }
 

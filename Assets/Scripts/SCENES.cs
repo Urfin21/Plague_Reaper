@@ -29,4 +29,8 @@ public class SCENES : MonoBehaviour
     {
         SceneManager.LoadScene("Boss");
     }
+    public void pasxalco()
+    {
+        SceneManager.LoadScene("Pasxalco");
+    }
 }
