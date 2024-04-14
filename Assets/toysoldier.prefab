@@ -47,6 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 1463547376198823008, guid: 4503b92d359a72142b979f7aaf1c7e95, type: 3}
   Back1: 0.1
+  main: {fileID: 0}
 --- !u!61 &5112664499308531249
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -287,8 +288,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94ce938cd57a93644b125127698b3ef8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 150
+  health: 4
   anim: {fileID: 7274944297190398344}
+  Back1: 0.3
 --- !u!1 &3874916072384564044
 GameObject:
   m_ObjectHideFlags: 0

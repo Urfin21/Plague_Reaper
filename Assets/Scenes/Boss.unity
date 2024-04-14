@@ -1384,6 +1384,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1497678521421443246, guid: 4d82ed05a39183547b098adba655c3ce, type: 3}
+      propertyPath: attackCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1497678521421443246, guid: 4d82ed05a39183547b098adba655c3ce, type: 3}
+      propertyPath: Enemy2.m_Bits
+      value: 1024
+      objectReference: {fileID: 0}
     - target: {fileID: 4077580221594761027, guid: 4d82ed05a39183547b098adba655c3ce, type: 3}
       propertyPath: HP
       value: 3
@@ -1836,6 +1844,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4310a462014b5634394849e92a6a487d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  healthNow: 100
+  END1: 2.4
+  anim: {fileID: 1094455935}
 --- !u!212 &1094455933
 SpriteRenderer:
   m_ObjectHideFlags: 0

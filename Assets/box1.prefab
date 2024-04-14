@@ -185,7 +185,7 @@ MonoBehaviour:
   FacingRight: 1
   isWall: 0
   isGround: 1
-  health: 100
+  health: 3
 --- !u!114 &9121567426782686176
 MonoBehaviour:
   m_ObjectHideFlags: 0

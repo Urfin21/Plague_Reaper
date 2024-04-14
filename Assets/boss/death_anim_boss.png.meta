@@ -144,7 +144,7 @@ TextureImporter:
         width: 463
         height: 655
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
         width: 482
         height: 653
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +186,7 @@ TextureImporter:
         width: 487
         height: 640
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,7 +207,7 @@ TextureImporter:
         width: 500
         height: 631
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -223,12 +223,12 @@ TextureImporter:
       name: death_anim_boss_4
       rect:
         serializedVersion: 2
-        x: 2922
-        y: 35
+        x: 2927
+        y: 30
         width: 518
-        height: 488
+        height: 643
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -247,9 +247,9 @@ TextureImporter:
         x: 3645
         y: 37
         width: 547
-        height: 514
+        height: 641
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -268,9 +268,9 @@ TextureImporter:
         x: 4376
         y: 30
         width: 496
-        height: 507
+        height: 658
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -289,9 +289,9 @@ TextureImporter:
         x: 5061
         y: 30
         width: 552
-        height: 456
+        height: 643
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -310,9 +310,9 @@ TextureImporter:
         x: 5809
         y: 35
         width: 512
-        height: 449
+        height: 633
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -331,9 +331,9 @@ TextureImporter:
         x: 6501
         y: 39
         width: 536
-        height: 438
+        height: 626
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -352,9 +352,9 @@ TextureImporter:
         x: 7263
         y: 42
         width: 526
-        height: 414
+        height: 615
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -370,12 +370,12 @@ TextureImporter:
       name: death_anim_boss_11
       rect:
         serializedVersion: 2
-        x: 7947
-        y: 34
+        x: 7943
+        y: 41
         width: 565
-        height: 390
+        height: 618
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -392,11 +392,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 8692
-        y: 41
+        y: 37
         width: 545
-        height: 410
+        height: 604
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -415,9 +415,9 @@ TextureImporter:
         x: 9399
         y: 40
         width: 532
-        height: 382
+        height: 595
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -436,9 +436,9 @@ TextureImporter:
         x: 10150
         y: 37
         width: 546
-        height: 389
+        height: 594
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -454,12 +454,12 @@ TextureImporter:
       name: death_anim_boss_15
       rect:
         serializedVersion: 2
-        x: 10850
+        x: 10846
         y: 32
         width: 609
-        height: 456
+        height: 595
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -478,9 +478,9 @@ TextureImporter:
         x: 11583
         y: 32
         width: 606
-        height: 422
+        height: 591
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -496,12 +496,12 @@ TextureImporter:
       name: death_anim_boss_17
       rect:
         serializedVersion: 2
-        x: 12304
+        x: 12308
         y: 46
         width: 595
-        height: 436
+        height: 581
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -520,9 +520,9 @@ TextureImporter:
         x: 12989
         y: 41
         width: 633
-        height: 526
+        height: 589
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -541,9 +541,9 @@ TextureImporter:
         x: 13712
         y: 30
         width: 636
-        height: 313
+        height: 606
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -562,9 +562,9 @@ TextureImporter:
         x: 14401
         y: 42
         width: 654
-        height: 214
+        height: 606
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -583,9 +583,9 @@ TextureImporter:
         x: 15152
         y: 39
         width: 634
-        height: 221
+        height: 608
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -604,9 +604,9 @@ TextureImporter:
         x: 15857
         y: 39
         width: 645
-        height: 203
+        height: 630
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -625,9 +625,9 @@ TextureImporter:
         x: 16565
         y: 35
         width: 659
-        height: 214
+        height: 630
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -646,9 +646,9 @@ TextureImporter:
         x: 17293
         y: 35
         width: 640
-        height: 211
+        height: 626
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -664,12 +664,12 @@ TextureImporter:
       name: death_anim_boss_25
       rect:
         serializedVersion: 2
-        x: 17993
-        y: 34
+        x: 18001
+        y: 42
         width: 661
-        height: 213
+        height: 619
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -686,11 +686,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18726
-        y: 39
+        y: 33
         width: 645
-        height: 210
+        height: 633
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -706,12 +706,12 @@ TextureImporter:
       name: death_anim_boss_27
       rect:
         serializedVersion: 2
-        x: 19454
-        y: 37
+        x: 19456
+        y: 39
         width: 650
-        height: 217
+        height: 631
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -755,6 +755,7 @@ TextureImporter:
       death_anim_boss_25: -1108775750
       death_anim_boss_26: -1231336946
       death_anim_boss_27: 673160815
+      death_anim_boss_28: -1816126200
       death_anim_boss_3: -2103358818
       death_anim_boss_4: 1821825625
       death_anim_boss_5: 175193675

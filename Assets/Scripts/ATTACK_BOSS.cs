@@ -98,4 +98,8 @@ public class ATTACK_BOSS : MonoBehaviour
         speed = -speed;
         speed1 = -speed1;
     }
+    public void TurnOff()
+    {
+        this.enabled = false;
+    }
 }
